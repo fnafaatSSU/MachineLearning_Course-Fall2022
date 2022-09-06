@@ -5,3 +5,6 @@ https://colab.research.google.com/
  my_arr = np.arange(1_000_000)
  
  my_list = list(range(1_000_000))
+
+
+https://github.com/numpy/numpy-tutorials/blob/main/content/tutorial-svd.md
