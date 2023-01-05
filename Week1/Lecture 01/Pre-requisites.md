@@ -1,3 +1,4 @@
+# Pre-requisites for this course
 You should understand basic probability and statistics, (MAT 147), 
 and college-level algebra and calculus. 
 It is expected that you know about standard probability distributions (Gaussians, Poisson), 
