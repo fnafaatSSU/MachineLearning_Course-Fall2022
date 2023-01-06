@@ -1,6 +1,9 @@
-Quickest	ever	review	of	mul4variate	calculus		
+# Calculus_References
 
-Calculus could be essential for our survival since we need to develop and understand climate or population growth models, spread of diseases or mechanisms to resolve conflicts or deal with economic and financial crisis. 
+Quickest	ever	review	of calculus		
+
+Calculus plays a crucial role in our ability to understand and address important issues related to our survival, such as climate change, population growth, disease transmission, conflict resolution, and economic and financial crises. By using calculus to create and analyze models of these phenomena, we can gain valuable insights and develop effective strategies for addressing them
+
 Here are links to some galleries. Many illustrate the importance of calculus.
 
 
