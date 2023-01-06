@@ -1,5 +1,5 @@
 # The plan for this week 
-This week we will meet twice
+We will hold two meetings per week
 # Lecture #1
 We will strat by explaining the overall goals and objectives of the course. This will give students a clear understanding of what they can expect to learn and what you hope they will take away from the class.
 
@@ -15,7 +15,7 @@ Offer an opportunity for students to ask questions or provide feedback on the sy
 ## What is Machine Learning? An Overview.
 ## Applications of Machine Learning
 ## Overview of the Categories of Machine Learning
-Supervised Learning
-Unsupervised learning
+Supervised Learning, 
+Unsupervised learning, and 
 Reinforcement learning
 
